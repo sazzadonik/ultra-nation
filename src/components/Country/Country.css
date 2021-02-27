@@ -1,0 +1,24 @@
+.country{
+    border: 1px solid black;
+    padding: 20px;
+    width: 50%;
+    margin: 20px auto;
+    background-color: aquamarine;
+    color: black;
+    border-radius: 5px;
+}
+
+.country img{
+    height: 100px;
+    width: 200px;
+}
+
+button{
+    padding: 10px 20px;
+    border: 1px solid black;
+    background-color: orangered;
+    color: black;
+    border-radius: 5px;
+    font-weight: 600;
+    margin: 10px;
+}
